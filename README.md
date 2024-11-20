@@ -18,7 +18,7 @@
 ## Usage 📋
 
 <details open>
-<summary> Here it is used to perform the email validation whther the email is valid or not </summary>
+<summary> Here it is used to perform the email validation to validate email using emailvalidationAPI </summary>
 
 ```bash
 #1. clone this project
