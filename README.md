@@ -22,7 +22,7 @@
 
 ```bash
 #1. clone this project
-~ git clone
+~ git clone https://github.com/ashishthomas/Email_Validator.git
 
 #2. Open the index.html file in your browser
 ~ open index.html
